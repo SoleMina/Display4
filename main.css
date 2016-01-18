@@ -1,0 +1,28 @@
+div {
+	
+	margin: 10px;
+	display: inline-block;
+
+  }
+
+  #uno {
+    background: yellow;
+    padding: 10px 20px;
+    height: 20px;
+	width: 70px;
+
+  }
+
+  #dos
+  {
+  	background: red;
+  	padding: 10px 20px;
+    height: 20px;
+	width: 3px;
+  }
+  #tres {
+  	background: yellow;
+  	padding: 10px 20px;
+    height: 20px;
+	width: 140px;
+  }
